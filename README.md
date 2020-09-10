@@ -5,4 +5,4 @@ ARIMA modeling procedure is performed on the AirPassengers dataset as follows:
 3. Test the stationarity of the time series
 4. Fit ARIMA model 
 5. Calculate forecasts for next 10 years
-Compare forecasts with original data
+6. Compare forecasts with original data
